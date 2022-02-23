@@ -1,0 +1,261 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Full and true account of all the remarkable actions and things that have happen'd in the North of Ireland, since the 15th of November to the 7th instant and particularly of the actions at Sligo, the Newry and Charlemont as also the petition of the chief inhabitants of Ulster to the Duke Schonberg, His Grace's answer thereunto, the present state of the army and affairs there ... : in a letter from Lisbourn, of December the 7th, 1689.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40558</idno>
+            <idno type="STC">Wing F2298</idno>
+            <idno type="STC">ESTC R225597</idno>
+            <idno type="EEBO-CITATION">13744526</idno>
+            <idno type="OCLC">ocm 13744526</idno>
+            <idno type="VID">101693</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A40558)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 101693)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 454:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Full and true account of all the remarkable actions and things that have happen'd in the North of Ireland, since the 15th of November to the 7th instant and particularly of the actions at Sligo, the Newry and Charlemont as also the petition of the chief inhabitants of Ulster to the Duke Schonberg, His Grace's answer thereunto, the present state of the army and affairs there ... : in a letter from Lisbourn, of December the 7th, 1689.</title>
+                  <author>Schomberg, Friedrich Hermann Schomberg, Duke of, 1615-1690.</author>
+               </titleStmt>
+               <extent>1 sheet (2 p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Richard Baldwin ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>"Licensed December 19, 1689; J.F."</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Northern Ireland --  History.</term>
+               <term>Ireland --  History --  War of 1689-1691.</term>
+               <term>Broadsides --  England --  London --  17th century</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="report">
+            <pb n="1" facs="tcp:101693:1"/>
+            <head>A FULL and TRUE ACCOUNT Of all the Remarkable Actions and Things That have happen'd in the NORTH of IRELAND, Since the 15th of <hi>November,</hi> to the 7th Inſtant.</head>
+            <head type="sub">And particularly of the Actions at <hi>SLIGO,</hi> the <hi>NEWRY,</hi> and <hi>CHARLEMONT;</hi> as alſo the Petition of the Chief Inhabitants of <hi>
+                  <g ref="char:V">Ʋ</g>LSTER</hi> to the Duke <hi>SCHONBERG.</hi> His Grace's Anſwer thereun<g ref="char:EOLhyphen"/>to. The preſent State of the Army and Affairs there; and of the Seizing of Commiſſary <hi>SHALES.</hi>
+            </head>
+            <head type="sub">In a LETTER from <hi>Lisbourn,</hi> of <hi>December</hi> the 7th. 1689.</head>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>LICENSED,</p>
+                        <closer>
+                           <dateline>
+                              <date>December 19. 1689.</date>
+                           </dateline> 
+                           <signed>J. F.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>HAving now ſo fair an opportunity of Writing to you, I think it not amiſs to entertain you with a full and diſtinct Account of the moſt material occurren<g ref="char:EOLhyphen"/>ces here ſince the Twenty fifth of the laſt; and that I may do it the more clearly, I will ſet down what has paſs'd in the order of Time, every thing happened.</p>
+            <p>
+               <label>Novemb. 25.</label> Captain <hi>Richard Smith,</hi> who was one of the 300 Detatch'd from the Camp at <hi>Dundalk,</hi> and went with Collonel <hi>Theodore Ruſſel</hi> towards the relief of <hi>Sligo,</hi> came to this place, and gave the following Account of the Action there: That on the 15th of the former Month, Collonel <hi>Ruſſel</hi> got into <hi>Sligo</hi> late at Night, the reſt being much fatigued with the in<g ref="char:EOLhyphen"/>conveniency of their March, could not reach the place, but were following after, with what haſte they could. The ſame night, about midnight, the Gari<g ref="char:EOLhyphen"/>ſon was A'a m'd with the approach of the Enemy, being diſcovered by the out Centinels and Scouts to have poſſeſſed themſelves of ſome of the out Paſſes; whereupon Coll. <hi>Ruſſel,</hi> according to his Inſtructions, adviſed with Coll. <hi>Lloyd,</hi> who command<g ref="char:EOLhyphen"/>ed in the place, and it was concluded upon, That the whole Gariſon ſhould March out next Morning about five a Clock, and fall upon the Enemy, which they did at a conſiderable Paſs, and forced them to retire; but they being reinforced play'd briskly on our Men, tho' with very little loſs, whil'ſt the reſt of the Enemies Horſe Marching round a Hill, came be<g ref="char:EOLhyphen"/>hind, and ſurrounded Coll. <hi>Lloyd</hi> at the Paſs, ſo that he had no way of ſaving himſelf and his Men, but by breaking clear through the Enemies, which he performed with that reſolution, as to get off with little or no Ioſs; and to facilitate it the more, Coll. <hi>Ruſſel</hi> entertained them warmly in another place: be<g ref="char:EOLhyphen"/>ing thus got off, they Fought in Retreating to the Town; but being overpowered by the great num<g ref="char:EOLhyphen"/>bers of the Enemies, they could not keep their ground long, which gave an opportunity to the Horſe to get over the Bridge; and the Enemy fearing leſt they ſhould Rally again, thought ſit to pull down an Arch of the Bridge to prevent it. In the mean time our Foot got into the Caſtle, and the Enemies Foot drew up in the Market-place, and Ten of their Officers ſtanding in a knot together, to conſult what to do next; one of our Men from the Caſtle, diſcharged a Field-piece loaden with Small-ſhot, and kill'd eight of the Ten dead on the place. The Enemy then drew up a Piece of Cannon ſo near the Caſtle, that when once Diſcharged; they could not for our Muſqueteers Charge it again; but in the attempt loſt ſix Gunners. The Caſtle being craſie, and not thought tenable, our Men quitted it and got into the Fort, which they held five days, which was ſo long as they had any Ammunition leſt: and in the mean time, refuſed ſo much as to hearken to a Treaty, till at laſt they had Conditions, That all in the Fort ſhould march out with Bag and Baggage, Drums beating, and Colours flying, <hi>&amp;c.</hi> And that what they could not carry, ſhould be ſent them when ſent for; which was accordingly per<g ref="char:EOLhyphen"/>form'd, and were ſafely convey'd beyond all danger. One remarkable Stratagem made uſe of by the <hi>Iriſh</hi> for the Storming the Fort, was, They built a Box of Timber as high as the Wall, with Stairs, through which they might aſcend to the top of the Wall without Danger; and having planted it, they within tumbled out a parcel of Shavings, and ſent one down in a Basket, who having therewith ſet ſire to the En<g ref="char:EOLhyphen"/>gine, would not return up again, until he had ſtript one of the <hi>Iriſh</hi> that had been kill'd at the foot of it, which having done, and being in his Basket aſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ending the Wall, the Enemy playing wholly at him, with one of their Bullets cut his Rope, and let the poor Adventurer fall, and while they were renewing the Rope, he ſtripped the ſecond, and with that Booty mounted the Wall ſafe again. The Enemy were 5000 Horſe, Foot, and Dra<g ref="char:EOLhyphen"/>goons; and our Men exceeding not the number of 250 in all, and loſt about 26 Men; whereas of the Ene<g ref="char:EOLhyphen"/>my, there was killed near. 300: The Fight began about five in the Morning, and continued till five at Night. Coll. <hi>Sarsfield</hi> Commanding the <hi>Iriſh,</hi> obſerved very punctually all the Articles agreed upon, and treated the Officer; the day they were ſigned. No Men ever be<g ref="char:EOLhyphen"/>haved themſelves better than our handful of Men did; tho in the whole Gariſon, when the Fight began, there was but one Barrel of Powder, and yet maintained the Fight twelve hours, with full twenty times their own
+<pb n="2" facs="tcp:101693:2"/>number, and kill'd about equal their own number of the Enemy. A few <hi>French</hi> that were detatch'd in that Party behaved themſelves to admiration, under the Command of that Brave Captain Monſieur <hi>de Saint Sauveur.</hi>
+            </p>
+            <p>On <hi>Thurſday</hi> laſt a Party of our Men being ſent to view the ground about <hi>Charlemont,</hi> the Enemy fally'd out upon them; but, after a ſmart reſiſtance, were for<g ref="char:EOLhyphen"/>ced to retire into a Trench they had provided for that purpoſe; which our Dragoons ſeeing, quitted their Horſes, fell in amongſt them under the ſhelter of their Cannon, killed ſeveral, and brought a conſiderable Booty of Cattel.</p>
+            <p>On <hi>Saturday</hi> laſt there was another Action, which happened as follows: Early that morning a ſtrong Party of the <hi>Iriſh</hi> came down the Mountains, and ha<g ref="char:EOLhyphen"/>ving ſurprized the Out-Centinel beyond the <hi>Newry</hi>-Bridge, with great violence ruſhed ſuddenly into the Town, where we had not above 50 well Men, and of them not above 14 upon Guard. Upon their approach, the ſecond Centinel fir'd, and retreated firing towards the Main-Guard kept in the Caſtle; who receiving the Alarm, iſſued out, and met the Enemy, and held them in play, until the reſt of the Gariſon, the Towns-men, and ſome few Countrey-people by chance, got to their aſſiſtance; and then having diſcharg'd; never ſtood to charge again; but, notwithſtanding the <hi>Iriſh</hi> were 25 to 1 of ours, they fell in with them with the Butt-end of their Muſquets, and thereby forc'd them to quit the Town, with the loſs of ſeveral Men: On our ſide were loſt two Captains, one Lieutenant, and five or ſix private Soldiers. Two Priſoners, which were behind in the Town, ſay, The <hi>Iriſh</hi> were 1700 Horſe, Foot, and Dragoons; That they could not be got forward, but that the Officers forc'd them on, and aſſur'd them, That if they got but into the Town, and ſet up a <hi>Huzza,</hi> all in the Gariſon, without firing a Shot, would ſub<g ref="char:EOLhyphen"/>mit; and accordingly they did ſet up a moſt terrible <hi>Huzza;</hi> but, to their coſt, found it fail'd their promi<g ref="char:EOLhyphen"/>ſed expectation.</p>
+            <p>Some days age, there was a Petition preſented to His Grace the Duke of <hi>Schonberg,</hi> by the principal Gentle<g ref="char:EOLhyphen"/>men of theſe Counties; which is as follows:</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="petition">
+                        <head>To His Grace <hi>Frederick</hi> Duke of <hi>Schonberg,</hi> General of all Their Majeſties Forces, <hi>&amp;c.</hi>
+                        </head>
+                        <head type="sub">The humble Petition of ſeveral of the Proteſtant Inha<g ref="char:EOLhyphen"/>bitants of the Province of <hi>Ulſter,</hi> in behalf of Them<g ref="char:EOLhyphen"/>ſelves, and the reſt of the Proteſtant Nobility, Cler<g ref="char:EOLhyphen"/>gy, and Commonalty of the ſaid Province,</head>
+                        <opener>Humbly ſheweth,</opener>
+                        <p>THat Your Petitioners, with all imaginable Gratitude, are highly ſenſible of, and truly thankful for Your Grace's indefatigable Labour, Hazard, Toil, and Trouble, in Reſtoring, Securing, and Protecting the Proteſtant Intereſt of this Province; And preſuming, That the Proteſtant Nobility, Gentry, Clergy, and Commonalty, (as in Gratitude and Inte<g ref="char:EOLhyphen"/>reſt oblig'd) are, and will be ready to contribute their utmoſt Advice and Aſſiſtance for ſecuring the ſaid Province, and carrying on this War.</p>
+                        <p>Your Petitioners humbly pray Your Grace, That they may Meet, Conſult, and Conſider fitting Expedients to be of<g ref="char:EOLhyphen"/>fered Your Grace for ſecuring, this Province, and Your Gaace's further ſucceſsful Management of this War a<g ref="char:EOLhyphen"/>gainſt the Common Enemy.</p>
+                        <closer>And they, as in duty bound, ſhall ever pray.
+<signed>
+                              <list>
+                                 <item>
+                                    <hi>Blaney.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Ja. Hamilton</hi> of <hi>Tallymor.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Daniel Mac-Neal,</hi> 
+                                    <abbr>Eſq</abbr>
+                                 </item>
+                                 <item>
+                                    <hi>Mac-Neal,</hi> Dean of <hi>Down.</hi>
+                                 </item>
+                                 <item>Sir <hi>John Magill.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Randall Brice,</hi> 
+                                    <abbr>Eſq</abbr>
+                                 </item>
+                                 <item>
+                                    <hi>J. Wilkins,</hi> Dean of <hi>Clogher.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Francis Hill,</hi> 
+                                    <abbr>Eſq</abbr>
+                                 </item>
+                                 <item>
+                                    <hi>John Hawkins,</hi> 
+                                    <abbr>Eſq</abbr>
+                                 </item>
+                                 <item>
+                                    <hi>Charles Stewart,</hi> 
+                                    <abbr>Eſq</abbr>
+                                 </item>
+                                 <item>
+                                    <hi>Robert Donnelſon,</hi> 
+                                    <abbr>Eſq</abbr> 
+                                    <hi>&amp;c.</hi>
+                                 </item>
+                              </list>
+                           </signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>The General having taken this Petition into his con<g ref="char:EOLhyphen"/>ſid<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ation, and heard all that was ſaid in purſuance of it, did, after great deliberation, come to the following Reſolution:</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="document">
+                        <opener>
+                           <dateline>
+                              <date>November 30. 1689.</date>
+                           </dateline>
+                        </opener>
+                        <p>HIS Grace readily conſents to what is deſired by the Pe<g ref="char:EOLhyphen"/>titioners, and is willing to receive any Advice that they ſhall be pleaſed to offer for the Security of this Province, and the further ſucceſsful Management of the War againſt the Common Enemy. <hi>Sign'd by Order.</hi>
+                        </p>
+                        <closer>
+                           <signed>
+                              <hi>Robert Gorge,</hi> Secretary.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>On <hi>Friday</hi> laſt that brave Officer Coll. <hi>Langſton</hi> was buried here. The day before, the General received Ex<g ref="char:EOLhyphen"/>aminations taken at <hi>Ardmagh,</hi> from a Wom in that late<g ref="char:EOLhyphen"/>ly eſcaped from the <hi>Iriſh,</hi> who depoſeth, That her Huſ<g ref="char:EOLhyphen"/>band was on the 19th paſt taken by the <hi>Iriſh,</hi> and kept Priſoner at <hi>Dundalk</hi> in the Houſe of one <hi>Hanagan,</hi> a P<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>eſt, who (with others) is return'd thither ſince we left it; That ſhe going thither to viſit her Husband, heard it concluded by the ſaid <hi>Hanagan,</hi> and ſeveral o<g ref="char:EOLhyphen"/>th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rs, That 15000 Men ſhould be ſent into the County of <hi>Down,</hi> and 20000 towards the Counties of <hi>Monaghan</hi> and <hi>Ardmagh,</hi> to heat up our Quarters: Whereupon the General has ordered the whole Body of the Army to be faithfully muſtered, and a true Account thereof to be ſpeedily return'd him of the number of the Well, Sick, and Dead, and of the preſent ſtate of the whole Forces and Train of Artillery: and particular Orders are ſent to all the Collonels, and other Officers in Chief, to make a true Return to the Muſter-Maſters (now gon<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> at road to muſter the whole Army, Train, Waggo<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and Carriages) of the juſt numbers of the Well, Sick, Serviceable and Unſerviceable Men and Horſes, upon pain of loſing their Places, and farther proſecuted at a Council of War, as Betrayers of their Truſt, and King's Intereſt.</p>
+            <p>On <hi>Tueſday</hi> the 3d inſtant, about Ten a Clock at night, Commiſſary <hi>Shales</hi> was by a ſtrong Guard taken into Cuſtody of a Meſſenger ſent from <hi>England;</hi> and Orders are given, That a Commiſſion-Officer always attend him, until he come to <hi>London,</hi> to anſwer for the King's Proviſions, keeping back of Horſes, Carriages, and other Neceſſaries, which by his Place he was obli<g ref="char:EOLhyphen"/>ged to. His Place is at preſent ſupply'd by Mr. <hi>Ro<g ref="char:EOLhyphen"/>binſon;</hi> late Surveyer of all the King's Forts and Fortifi<g ref="char:EOLhyphen"/>cations in <hi>Ireland,</hi> and Mr. <hi>Vanhumary,</hi> a <hi>Dutch</hi> Mer<g ref="char:EOLhyphen"/>chant.</p>
+            <p>Lieutenant-General <hi>Douglas</hi>'s return is expected dai<g ref="char:EOLhyphen"/>ly from the Frontier-Towns and Gariſons, which he has been to view, and ſecure ſo as to prevent the ſending of any Relief to <hi>Charlemont,</hi> or any other prejudice to our Quarters by the Enemies. Irruptions upon them, The General has ſent Orders to all the Chief Officers in Frontier and other Gariſons round <hi>Charlemont,</hi> to make publick Proclamation, That none preſume to give the leaſt Succour to that Place, either of Salt, Tobacco, Brandy, or other Proviſions, upon pain of Death. Our Men do daily viſit and fleece them, ſo that they cannot leave a Beaſt without their narrow Walls. Laſt week 15 or 16 <hi>Derry</hi>-men came down, and took from them a conſid<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ble number of Cattel that were graſing cloſe und<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> their Walls, without the hurting of one Man, tho in reach of Muſquet-ſhot. We have pull'd down part of <hi>Newry</hi>-Bridge, and built a Battery at the foot of it, to ſecure a Ford cloſe by it; and made ſeveral other Fortifications for the Defence o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that burnt Town, where there is not one whole Houſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſtanding, nor above five or ſix reſcu'd our of the flame<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> as it was burning when we firſt entred it going toward<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Dundalk.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Richard Baldwin</hi> in the <hi>Old-Bailey,</hi> 1689.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
